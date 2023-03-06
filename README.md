@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xristosgala
 - 👀 I’m interested in data analytics & data science
-- 🌱 I’m currently learning about pyhon and data science and always looking ways to improve logistics & supply chains.
+- 🌱 I’m currently learning about pyhon and data science in order to apply analysis to improve logistics & supply chains.
 - 📫 You can reach me on Linkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 <!---

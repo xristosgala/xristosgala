@@ -1,6 +1,6 @@
-- 👋 Hello I am Chris Galanis
-- 👀 I’m interested in data analysis & data science
-- 🌱 I’m currently learning about data science and machine learning in order to apply them to logistics & supply chain sector.
+- 👋 Hello I am Christos Galanis.
+- 👀 Currently, studying Data Science in the International Hellenic University as part of a Masters program.
+- 🌱 Interested on finding ways of how Data Science can be applied to the Logistics & Supply Chain Sector.
 - 📫 You can reach me on Linkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 <!---
